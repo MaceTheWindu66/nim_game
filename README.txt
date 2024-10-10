@@ -1,8 +1,6 @@
 Author: Maddux Berry, Class of 2026
 Email: mlberry@wpi.edu
 
-Now onto the actual coding portion of the assignment:
-
 Main.java is the java file in which the whole program is located. To use the program, insert the file into whatever IDE or software
 you are using to run java,
 
